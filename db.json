@@ -1,0 +1,8 @@
+{
+  "disciplinas": [
+    { "id: 1, "titulo": "Programação web Front-end", "codigo": "PWEE" },
+    {"id: 2, "titulo": "Programação web Back-end", "codigo": "PWBE" },
+     {"id: 3, "titulo": "Banco de dados", "codigo": "BCD" },
+     {"id: 4, "titulo": "Interfaces para dispositivos Móveis", "codigo": "INDMO" },
+  ]
+}
